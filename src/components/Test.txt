@@ -1,1 +1,1 @@
-Just to toLocaleString
+Just to toLocaleString my className
